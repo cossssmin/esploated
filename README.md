@@ -20,4 +20,4 @@ Any poor soul interested in these kind of things. Mainly [#emailgeeks](https://t
 
 Glad you asked!
 
-Please see our [contributing guide](https://github.com/cossssmin/esploated/blob/master/.github/CONTRIBUTING.md) and either create a pull request or, if you're not comfortable with that, simply [open an issue](https://github.com/hellocosmin/esploated/issues/new).
+Please see our [contributing guide](https://github.com/cossssmin/esploated/blob/master/.github/CONTRIBUTING.md) and either create a pull request or simply [open an issue](https://github.com/hellocosmin/esploated/issues/new).
