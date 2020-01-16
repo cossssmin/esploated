@@ -1,6 +1,6 @@
 # ESPLOATED
 
-Things email service providers do to your code.
+Things Email Service Providers do to your code.
 
 ## What is it?
 
@@ -10,7 +10,7 @@ A list of things that Email Service Providers do to your HTML code, intentionall
 
 If your ESP is messing with your HTML code (and you can't do anything about it), it can lead to unexpected results, like broken layouts and poor-performing campaigns.
 
-Email developers like their code untouched. Marketers like their campaigns to perform.
+Email developers like their code untouched. Esploated documents issues with HTML email code in ESPs.
 
 ## Who is it for?
 
